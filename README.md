@@ -6,6 +6,7 @@
 - Week 4: Discussion Notebook - Linear Algebra Review and PCA
 - Week 5: Discussion Notebook - Vectors, RMSE, and The Curse of Dimensionality
 - Week 6: Discussion Notebook - Paradigms, Trees, and Ensembles
+- Week 7: Discussion Notebook - Boosting, Margins, and Applications
 
 ### Previous
 - Discussion 1 - Introduction to Spark and RDDs
