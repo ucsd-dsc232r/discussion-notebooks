@@ -7,6 +7,7 @@
 - Week 5: Discussion Notebook - Vectors, RMSE, and The Curse of Dimensionality
 - Week 6: Discussion Notebook - Paradigms, Trees, and Ensembles
 - Week 7: Discussion Notebook - Boosting, Margins, and Applications
+- Week 8: Discussion Notebook - XGBoost and KD-Trees
 
 ### Previous
 - Discussion 1 - Introduction to Spark and RDDs
