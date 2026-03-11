@@ -9,6 +9,7 @@
 - Week 7: Discussion Notebook - Boosting, Margins, and Applications
 - Week 8: Discussion Notebook - XGBoost and KD-Trees
 - Week 9: Discussion Notebook - Ray Ecosystem (Core, Data, and Train)
+- Week 10: Discussion Notebook - Spark + Ray
 
 ### Previous
 - Discussion 1 - Introduction to Spark and RDDs
