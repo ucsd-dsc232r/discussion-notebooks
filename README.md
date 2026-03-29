@@ -1,5 +1,5 @@
 # Discussion Notebooks
-### Winter 2026
+### 2026
 - Week 1: Discussion Slides DSC 232R
 - Week 2: Discussion Notebook - Spark RDD
 - Week 3: Discussion Notebook - Spark DataFrames
@@ -11,7 +11,7 @@
 - Week 9: Discussion Notebook - Ray Ecosystem (Core, Data, and Train)
 - Week 10: Discussion Notebook - Spark + Ray
 
-### Previous
+### 2025
 - Discussion 1 - Introduction to Spark and RDDs
 - Discussion 2 - Spark Dataframes
 - Discussion 3 - Spark Configurations and Optimization Strategies
